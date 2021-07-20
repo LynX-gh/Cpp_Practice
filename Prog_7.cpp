@@ -1,7 +1,7 @@
 #define	_USE_MATH_DEFINES
 #include<cmath>
 #include<iostream>
-#include<stdlib.h>
+#include<cstdlib>
 
 using namespace std;
 
