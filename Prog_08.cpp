@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// 8. Write a program to illustrate the concept of namespace with two function name as setprice() having data members as productcode & price ensuring that they don’t collide.
+// 8. Write a program to illustrate the concept of namespace with two function name as setprice() having data members as productcode & price ensuring that they donâ€™t collide.
 
 namespace one {
 	void setprice(int productcode, int price);
