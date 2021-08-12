@@ -3,7 +3,7 @@
 
 using namespace std;
 
-//	10. Write a Program to reverse of given numbers.  123------321
+//	Write a Program to reverse of given numbers.  123------321
 
 int rev(int a);
 
