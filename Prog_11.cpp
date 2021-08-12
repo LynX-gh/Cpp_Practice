@@ -4,7 +4,7 @@
 
 using namespace std;
 
-//	11. Write a C++ program to use scope resolution operators. When a class has a function prototype inside but the definition is outside of the class
+//	Write a C++ program to use scope resolution operators. When a class has a function prototype inside but the definition is outside of the class
 
 class student
 {
