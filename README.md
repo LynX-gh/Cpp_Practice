@@ -1,2 +1,2 @@
 # Cpp_Practicals
-2nd Year OOP Practical Programs
+C++ Programs for practicing C++ syntax while learning
